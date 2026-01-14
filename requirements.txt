@@ -1,0 +1,10 @@
+numpy==2.3.3
+pandas
+ipykernel
+matplotlib
+scikit-learn>=1.7.2
+requests
+shiny>=1.5.0
+Jinja2
+seaborn>=0.13.2
+statsmodels
