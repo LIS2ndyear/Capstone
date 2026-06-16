@@ -35,7 +35,6 @@ capstone_manosphere_github_ready/
     processed/
     outputs/
 
-  figures/
 ```
 
 ## Notebook guide
