@@ -30,7 +30,6 @@ capstone_manosphere_github_ready/
     03_trope_classification_false_negatives.ipynb
 
   data/
-    README.md
     raw/
     processed/
     outputs/
